@@ -1,4 +1,4 @@
 import Foundation
 
-var str = "Hello, playground"
-print(str)
+var lol:String! = "Hello, Nasir"
+print(lol)
